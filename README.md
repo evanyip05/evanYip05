@@ -1,4 +1,10 @@
-### Hi there 👋 I'm Evan 
+### Hi there!
+
+learning java, js (using node), and software design patterns
+will learn cpp and python
+
+working on an game metadata editor (/seanyweany/Storyboard)
+
 
 <!--
 **evanyip05/evanYip05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
