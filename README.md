@@ -4,6 +4,7 @@ learning java, js (using node), and software design patterns
 will learn cpp and python
 
 working on an game metadata editor (/seanyweany/Storyboard)
+working on an multi language ide 
 
 
 <!--
