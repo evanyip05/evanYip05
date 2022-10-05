@@ -1,10 +1,9 @@
-### Hi there!
-
-learning java, js (using node), and software design patterns
-will learn cpp and python
-
-working on an game metadata editor (/seanyweany/Storyboard)
-working on an multi language ide 
+<h1>Hi!</h1> 
+learning java, js (using node), little bit of html, and software design patterns <br>
+will learn cpp and python <br>
+<br>
+working on an game metadata editor (/seanyweany/Storyboard) <br>
+working on an multi language ide <br>
 
 
 <!--
