@@ -1,5 +1,6 @@
 <h1>Hi!</h1> 
-learning java, js (using node), little bit of html, and software design patterns <br>
+use java, js (with node), little bit of html <br>
+learning software design patterns <br>
 will learn cpp and python <br>
 <br>
 working on an game metadata editor (/seanyweany/Storyboard) <br>
