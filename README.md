@@ -1,7 +1,7 @@
 <h1>Hi!</h1> 
 use java, js (with node/es6), little bit of html <br>
 learning c++ and python <br>
-learning and practincing software design patterns <br>
+learning and practicing software design patterns <br>
 <br>
 working on an game metadata editor (/seanyweany/Storyboard and or /evanyip05/Storyboard 2) <br>
 
