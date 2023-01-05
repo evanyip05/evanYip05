@@ -4,7 +4,8 @@ learning c++ and python <br>
 learning and practicing software design patterns <br>
 <br>
 working on an game metadata editor (/seanyweany/Storyboard and or /evanyip05/Storyboard 2) <br>
-
+<br>
+Storyboard 2 is the newest code I have
 
 <!--
 **evanyip05/evanYip05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
