@@ -1,5 +1,6 @@
 <h1>Hi!</h1> 
-use java, js (with node/es6), little bit of html <br>
+HS senior, going into cs in college
+use java, html/js/css <br>
 learning c++ and python <br>
 learning and practicing software design patterns <br>
 <br>
