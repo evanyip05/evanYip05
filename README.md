@@ -1,5 +1,5 @@
 <h1>Hi!</h1> 
-HS senior, going into cs in college
+HS senior, going into cs in college <br>
 use java, html/js/css <br>
 learning c++ and python <br>
 learning and practicing software design patterns <br>
