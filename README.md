@@ -1,11 +1,11 @@
-<h1>Hi!</h1> 
-HS senior, going into cs in college <br>
-use java, html/js/css <br>
-learning c++ and python <br>
-learning and practicing software design patterns <br>
-<br>
-working on an game metadata editor (/seanyweany/Storyboard and or /evanyip05/Storyboard 2) <br>
-<br>
+# Hi!
+HS senior, going into cs in college 
+use java, html/js/css 
+learning go, c++, and python 
+learning and practicing software design patterns
+
+working on an game metadata editor (/seanyweany/Storyboard and or /evanyip05/Storyboard 2)
+
 Storyboard 2 is the newest code I have. Go check out /seanyweany/Storyboard for a older but more polished version
 
 <!--
