@@ -8,7 +8,7 @@ Frontend <br>
 React, Tailwind, Evergreen, Material UI <br>
 <br>
 Backend <br>
-Google Apps Script, Chrome Extensions <br>
+Google Apps Script, Chrome Extensions, Docker Containers <br>
 <br>
 Firmware <br>
 TI NoRTOS, Arduino, MicroPython <br>
