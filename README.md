@@ -1,6 +1,8 @@
 # Hi!
 I use go, c, c++, java, verilog, javascipt, typescript, html/css, lua, python<br>
-
+I can use Fusion 360 <br>
+I am learning Solidworks, Kicad and Altium <br>
+<br>
 ## Frameworks (all seperately)
 Frontend <br>
 React, Tailwind, Evergreen, Material UI <br>
