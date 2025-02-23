@@ -11,7 +11,7 @@ Backend <br>
 Google Apps Script, Chrome Extensions, AWS Compute, Docker Containers <br>
 <br>
 Firmware <br>
-TI NoRTOS, Arduino, MicroPython <br>
+TI NoRTOS, Arduino, Lattice ICE40, MicroPython <br>
 
 <!--
 **evanyip05/evanYip05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
