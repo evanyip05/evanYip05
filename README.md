@@ -1,11 +1,11 @@
 # Hi!
 I use go, c, c++, java, verilog, javascipt, typescript, html/css, lua, python<br>
 
-## Frameworks
-Frontend (all seperately) <br>
+## Frameworks (all seperately)
+Frontend <br>
 React, Tailwind, Evergreen, Material UI <br>
 <br>
-Backend (all seperately) <br>
+Backend <br>
 Google Apps Script, Chrome Extensions <br>
 <br>
 Firmware <br>
